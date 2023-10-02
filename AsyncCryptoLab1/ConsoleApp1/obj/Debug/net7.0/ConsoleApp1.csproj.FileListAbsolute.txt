@@ -1,0 +1,15 @@
+B:\HW\AsyncCryptoLabs\AsyncCrypto_Lab1\AsyncCryptoLab1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+B:\HW\AsyncCryptoLabs\AsyncCrypto_Lab1\AsyncCryptoLab1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+B:\HW\AsyncCryptoLabs\AsyncCrypto_Lab1\AsyncCryptoLab1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+B:\HW\AsyncCryptoLabs\AsyncCrypto_Lab1\AsyncCryptoLab1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+B:\HW\AsyncCryptoLabs\AsyncCrypto_Lab1\AsyncCryptoLab1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+B:\HW\AsyncCryptoLabs\AsyncCrypto_Lab1\AsyncCryptoLab1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+B:\HW\AsyncCryptoLabs\AsyncCrypto_Lab1\AsyncCryptoLab1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+B:\HW\AsyncCryptoLabs\AsyncCrypto_Lab1\AsyncCryptoLab1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+B:\HW\AsyncCryptoLabs\AsyncCrypto_Lab1\AsyncCryptoLab1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+B:\HW\AsyncCryptoLabs\AsyncCrypto_Lab1\AsyncCryptoLab1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+B:\HW\AsyncCryptoLabs\AsyncCrypto_Lab1\AsyncCryptoLab1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+B:\HW\AsyncCryptoLabs\AsyncCrypto_Lab1\AsyncCryptoLab1\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+B:\HW\AsyncCryptoLabs\AsyncCrypto_Lab1\AsyncCryptoLab1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+B:\HW\AsyncCryptoLabs\AsyncCrypto_Lab1\AsyncCryptoLab1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+B:\HW\AsyncCryptoLabs\AsyncCrypto_Lab1\AsyncCryptoLab1\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
